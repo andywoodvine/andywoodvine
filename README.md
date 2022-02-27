@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andywoodvine
 - 👀 I’m interested in 3D, VR, computer games, photography, motorsport, nature and wildlife
--
--
+
 
 <!---
 andywoodvine/andywoodvine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
