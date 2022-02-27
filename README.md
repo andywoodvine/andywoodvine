@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @andywoodvine
-- 👀 I’m interested in 3D, VR, computer games, photography, motorsport, nature and wildlife
+- 👀 I’m interested in 3D, VR, computer games, photography, motorsport, nature and wildlife.
+- :computer: 16 years commercial Software Engineering.
 
 
 <!---
